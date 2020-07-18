@@ -1,2 +1,2 @@
-# numeric-matrix-processor
-Project "Numeric Matrix Processor" from JetBrais Academy
+# Numeric Matrix Processor
+Project from JetBrais Academy
