@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Numeric Matrix Processor/task" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Account (1)" />
+            <option value="$PROJECT_DIR$/Problems/Adding values" />
+            <option value="$PROJECT_DIR$/Problems/Alternating Fibonacci numbers" />
+            <option value="$PROJECT_DIR$/Problems/Army" />
+            <option value="$PROJECT_DIR$/Problems/Binary search" />
+            <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/Celsius to Fahrenheit" />
+            <option value="$PROJECT_DIR$/Problems/Check the sum" />
+            <option value="$PROJECT_DIR$/Problems/Concat all strings without digits" />
+            <option value="$PROJECT_DIR$/Problems/Convert a date" />
+            <option value="$PROJECT_DIR$/Problems/Creating instances" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Distance" />
+            <option value="$PROJECT_DIR$/Problems/Find X" />
+            <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Problems/Getting the fullname" />
+            <option value="$PROJECT_DIR$/Problems/Heron's formula" />
+            <option value="$PROJECT_DIR$/Problems/Interval" />
+            <option value="$PROJECT_DIR$/Problems/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Problems/K-combination" />
+            <option value="$PROJECT_DIR$/Problems/Maximum element in a matrix" />
+            <option value="$PROJECT_DIR$/Problems/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Problems/Number of decompositions" />
+            <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Pow" />
+            <option value="$PROJECT_DIR$/Problems/Preparing full name" />
+            <option value="$PROJECT_DIR$/Problems/Reading integer numbers" />
+            <option value="$PROJECT_DIR$/Problems/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Problems/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems/The angle between vectors" />
+            <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
+            <option value="$PROJECT_DIR$/Problems/We need to learn Java" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
